@@ -1,0 +1,12 @@
+[package]
+name = "homepage-redirect"
+version.workspace = true
+authors.workspace = true
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+url = "2.4.0"
+worker = "0.0.17"

@@ -1,0 +1,13 @@
+[workspace]
+members = [
+    "homepage-redirect",
+]
+
+[workspace.package]
+version = "0.1.0"
+authors = ["Vlad Stepanov <vlad@utterstep.dev>"]
+
+[profile.release]
+lto = true
+strip = true
+codegen-units = 1

@@ -1,0 +1,8 @@
+# Rust stuff
+target/
+
+# VSCode stuff
+.vscode/
+
+# Node stuff
+**/node_modules/

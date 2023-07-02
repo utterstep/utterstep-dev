@@ -1,0 +1,9 @@
+name = "homepage-redirect"
+main = "build/worker/shim.mjs"
+compatibility_date = "2023-03-22"
+
+[build]
+command = "cargo install -q worker-build && worker-build --release"
+
+[vars]
+REDIRECT_TO = "https://github.com/utterstep/"
