@@ -6,5 +6,6 @@
 
     {{ super() }}
     {% set section = get_section(path="blog/_index.md") %}
+    <h2>Recent articles</h2>
     {% include "partials/articles.html" %}
 {% endblock content %}
