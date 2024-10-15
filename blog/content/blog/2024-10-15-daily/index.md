@@ -4,7 +4,7 @@ title = "2024-10-15: First Daily"
 description = "In which I start a daily series of appreciations."
 date = 2024-10-15T23:00:00+02:00
 [taxonomies]
-tags = ["daily", "appreciations"]
+tags = ["daily", "tom scott", "europa clipper", "wiki", "video"]
 [extra]
 toc = true
 toc_inline = true
