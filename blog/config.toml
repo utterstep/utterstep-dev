@@ -1,0 +1,63 @@
+title = "Vlad's place"
+base_url = "https://utterstep.dev/"
+
+# Of course compile the SASS, I'm not a barbarian!
+compile_sass = true
+# Let's be savvy and minify the HTML
+minify_html = true
+
+# Search index is a great thing to have
+build_search_index = true
+
+# I'm using the Duckquill theme
+# https://codeberg.org/daudix/duckquill
+theme = "duckquill"
+
+# I'm very much in favor of having RSS and Atom feeds generated for me
+generate_feeds = true
+feed_filenames = ["rss.xml", "atom.xml"]
+
+# https://www.getzola.org/documentation/templates/taxonomies/
+taxonomies = [{ name = "tags", feed = true }]
+
+[markdown]
+highlight_code = true
+external_links_target_blank = true
+external_links_no_follow = true
+
+[extra]
+styles = ["mods.css"]
+
+show_copy_button = true
+# I'm not sure why isn't this working
+show_reading_time = true
+# Uses https://shareopenly.org.
+show_share_button = true
+
+# I'm using the dark theme
+default_theme = "dark"
+
+# Stolen from the Duckquill site
+accent_color = "#ff7800"
+accent_color_dark = "#ffa348"
+
+[extra.nav]
+show_feed = true
+show_theme_switcher = true
+show_repo = true
+
+# The links in the nav
+links = [
+    { name = "Blog", url = "@/blog/_index.md" },
+    { name = "Links", menu = [
+        { name = "GitHub", url = "https://github.com/utterstep" },
+        { name = "LinkedIn", url = "https://www.linkedin.com/in/utterstep" },
+        { name = "Mastodon", url = "https://indieweb.social/@utterstep" },
+    ] },
+]
+
+[extra.footer]
+# Whether to show "© Title, YEAR"
+show_copyright = true
+# Whether to show "Powered by Zola and Duckquill"
+show_powered_by = true
