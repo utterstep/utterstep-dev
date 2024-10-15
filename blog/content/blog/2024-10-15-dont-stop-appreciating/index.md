@@ -2,7 +2,6 @@
 authors = ["Vlad Stepanov"]
 title = "Don't Stop Appreciating"
 description = "Cabel Sasser’s Talk at XOXO 2024 is very much worth watching."
-date = 2024-10-15
 [taxonomies]
 tags = ["xoxo", "videos", "talks"]
 +++
