@@ -3,7 +3,6 @@ authors = ["Vlad Stepanov"]
 title = "2024-10-15: First Daily"
 description = "In which I start a daily series of appreciations."
 date = 2024-10-15T23:00:00+02:00
-path = "blog/daily-2024-10-15"
 [taxonomies]
 tags = ["daily", "tom scott", "europa clipper", "wiki", "video"]
 [extra]

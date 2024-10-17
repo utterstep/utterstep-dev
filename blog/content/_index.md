@@ -1,6 +1,4 @@
 +++
-title = "Home"
-
 insert_anchor_links = "left"
 template = "main.html"
 paginate_by = 2
