@@ -38,8 +38,12 @@ But unfortunately, this is the world we live in now.
 It's an interesting read by itself, but what caught my eye was the part about the battery capacity.
 
 <figure>
-{{ image(url="pager-schema.png", alt="The schematic representation of the battery size relative to the whole pager. There are the markings on a battery: Lithium-ion Battery Pack; 7.4V; 300mAh; 2.22Wh. Below it, we can find a graph comparing the expected battery capacity (~8.7 Wh) to the actual one (2.22Wh).", full=true, no_hover=true) }}
-<figcaption>Screenshot from the Reuters article. © Reuters</figcaption>
+{{ image(url="pager-schema.png", alt="The schematic representation of the battery size relative to the whole pager. There are the markings on a battery: Lithium-ion Battery Pack; 7.4V; 300mAh; 2.22Wh. Below it, we can find a graph comparing the expected battery capacity (~8.7 Wh) to the actual one (2.22Wh).", full=true, no_hover=true ) }}
+<figcaption>
+
+Screenshot from the Reuters article. © [Reuters](https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/HEZBOLLAH-PAGERS/mopawkkwjpa/)
+
+</figcaption>
 </figure>
 
 As you can see above, the battery has **less than one-third** of the capacity expected for a battery of
