@@ -6,3 +6,6 @@ target/
 
 # Node stuff
 **/node_modules/
+
+# MacOS stuff
+.DS_Store

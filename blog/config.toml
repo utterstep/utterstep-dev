@@ -25,6 +25,13 @@ highlight_code = true
 external_links_target_blank = true
 external_links_no_follow = true
 
+# I love having my ... replaced with …, and so on
+smart_punctuation = true
+
+# Whether footnotes are rendered in the GitHub-style (at the bottom, with back references)
+# or plain (in the place, where they are defined)
+bottom_footnotes = true
+
 [extra]
 styles = ["mods.css"]
 
@@ -34,6 +41,7 @@ show_reading_time = true
 # Uses https://shareopenly.org.
 show_share_button = true
 
+source_url = "https://github.com/utterstep/utterstep-dev"
 # I'm using the dark theme
 default_theme = "dark"
 
@@ -61,3 +69,14 @@ links = [
 show_copyright = true
 # Whether to show "Powered by Zola and Duckquill"
 show_powered_by = true
+# Whether to show link to website source
+show_source = true
+
+# GoatCounter analytics; enabled only if present in config.
+[extra.goatcounter]
+# Your GoatCounter server; goatcounter.com is used by default.
+#
+# host = "YOUR_SERVER"
+#
+# Your GoatCounter username
+user = "utterstep"
