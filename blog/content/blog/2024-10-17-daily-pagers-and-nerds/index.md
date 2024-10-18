@@ -1,6 +1,6 @@
 +++
 authors = ["Vlad Stepanov"]
-title = "2024-10-17: Pagers and Nerds"
+title = "Pagers and Nerds"
 description = "On why should you always have a nerd in your team."
 [taxonomies]
 tags = ["daily", "israel", "investigation"]

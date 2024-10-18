@@ -1,6 +1,6 @@
 +++
 authors = ["Vlad Stepanov"]
-title = "2024-10-16: Stallman Report"
+title = "Stallman Report"
 description = "Well, it turned grim quickly..."
 [taxonomies]
 tags = ["daily", "rms", "abuse"]
