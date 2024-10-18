@@ -3,7 +3,7 @@ authors = ["Vlad Stepanov"]
 title = "Disco February"
 description = "Unexpected YouTube gem"
 [taxonomies]
-tags = ["daily", "youtube", "disco elysium"]
+tags = ["daily", "video", "disco elysium"]
 [extra]
 toc = false
 toc_inline = false
