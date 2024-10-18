@@ -1,6 +1,6 @@
 +++
 authors = ["Vlad Stepanov"]
-title = "2024-10-18: Disco February"
+title = "Disco February"
 description = "Unexpected YouTube gem"
 [taxonomies]
 tags = ["daily", "youtube", "disco elysium"]

@@ -23,7 +23,7 @@ an audience more than for myself. And then it got boring, and I stopped.
 Now I'll try a different approach:
 I'll just write a short note every day about something that caught my eye.
 
-I'll try to keep it short and sweet, and I'll try to do it every day.
+I'll try to keep it short and simple, and I'll try to do it every day.
 
 Let's see how it goes.
 
