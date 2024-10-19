@@ -14,8 +14,9 @@ so I'm not writing much. But I want to keep the daily streak going, so here's a 
 
 ## 50 years of tax cuts for the rich failed to trickle down, economics study says
 
-Thanks to [King Kaufman](https://sfba.social/@kingkaufman/113334090277614932) for this link:
-https://www.cbsnews.com/news/tax-cuts-rich-50-years-no-trickle-down/.
+Thanks to [King Kaufman](https://sfba.social/@kingkaufman/113334090277614932) for
+[this](https://www.cbsnews.com/news/tax-cuts-rich-50-years-no-trickle-down/).
+
 The title is pretty self-explanatory, I just hope that more people will start to see that
 tax cuts for the rich are beneficial only for the rich themselves.
 
