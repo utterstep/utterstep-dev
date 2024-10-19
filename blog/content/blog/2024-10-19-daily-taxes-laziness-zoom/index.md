@@ -5,8 +5,8 @@ description = "Just some links for today."
 [taxonomies]
 tags = ["daily", "research", "taxes", "wealth", "laziness", "zoom"]
 [extra]
-toc = false
-toc_inline = false
+toc = true
+toc_inline = true
 +++
 
 Last three days I'm in Berlin, visiting my sister. This have taken a lot of my time and energy,
