@@ -35,3 +35,11 @@ I'm also surprised to see that these issues justified to Malibal the decision to
 it seems to me like an overreaction.
 
 But I'm not in the business of selling laptops, so what do I know?
+
+## Update from October 21st
+
+Okay, finished reading this article I now assess it as the usual "looks like no one is right here".
+
+I don't think that the authors from MALIBAL are inventing the facts – I saw a lot of
+hard-to-stomach engineers in my life. But from this whole article it seems that MALIBAL themselves
+are more than a bit overemotional and hence and tend to see the problem in anyone but themselves.
