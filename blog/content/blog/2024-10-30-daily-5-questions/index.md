@@ -18,4 +18,4 @@ Just the time for a quote like that, found [here](https://elk.zone/infosec.excha
 > * “Where did you get it from?”
 > * “In whose interests do you use it?”
 > * “To whom are you accountable?”
-> * __“How do we get rid of you?”__
+> * _“How do we get rid of you?”_
