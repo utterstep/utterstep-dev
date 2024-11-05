@@ -49,6 +49,10 @@ default_theme = "dark"
 accent_color = "#ff7800"
 accent_color_dark = "#ffa348"
 
+card = "card.png"
+apple_touch_icon = "apple-touch-icon.png"
+favicon = "favicon-96x96.png"
+
 [extra.nav]
 show_feed = true
 show_theme_switcher = true
